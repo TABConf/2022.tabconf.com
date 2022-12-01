@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Store - TABConf 2022</title>
-	<atom:link href="/store/feed/" rel="self" type="application/rss+xml" />
-	<link>/store/</link>
+	<atom:link href="/https://tabconf.github.io/2022.tabconf.com/store/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://tabconf.github.io/2022.tabconf.com/store/</link>
 	<description>The Atlanta Bitcoin Conference</description>
 	<lastBuildDate>Fri, 21 Oct 2022 03:34:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,23 +26,23 @@
 <image>
 	<url>https://i0.wp.com/2022.tabconf.com/wp-content/uploads/2022/07/cropped-tabconf2022-favicon-circle.png?fit=32%2C32&#038;ssl=1</url>
 	<title>Store - TABConf 2022</title>
-	<link>/store/</link>
+	<link>/https://tabconf.github.io/2022.tabconf.com/store/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">212419342</site>	<item>
 		<title>TABConf Shirt</title>
-		<link>/product/tabconf-shirt/</link>
+		<link>/https://tabconf.github.io/2022.tabconf.com/product/tabconf-shirt/</link>
 		
 		<dc:creator><![CDATA[TABConf]]></dc:creator>
 		<pubDate>Thu, 13 Oct 2022 13:20:32 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=2659</guid>
+				<guid isPermaLink="false">/https://tabconf.github.io/2022.tabconf.com/?post_type=product&#038;p=2659</guid>
 
 					<description><![CDATA[<p>It&#8217;s a TABConf shirt.</p>
-<p>The post <a rel="nofollow" href="/product/tabconf-shirt/">TABConf Shirt</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-shirt/">TABConf Shirt</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>It&#8217;s a TABConf shirt.</p>
-<p>The post <a rel="nofollow" href="/product/tabconf-shirt/">TABConf Shirt</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-shirt/">TABConf Shirt</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -50,17 +50,17 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">2659</post-id>	</item>
 		<item>
 		<title>TABConf x NoGood Poster</title>
-		<link>/product/tabconf-x-nogood-poster/</link>
+		<link>/https://tabconf.github.io/2022.tabconf.com/product/tabconf-x-nogood-poster/</link>
 		
 		<dc:creator><![CDATA[TABConf]]></dc:creator>
 		<pubDate>Thu, 13 Oct 2022 13:06:19 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=2653</guid>
+				<guid isPermaLink="false">/https://tabconf.github.io/2022.tabconf.com/?post_type=product&#038;p=2653</guid>
 
 					<description><![CDATA[<p>Official TABConf 2022 poster by NoGood. 20 x 30 inch Giclee print.</p>
-<p>The post <a rel="nofollow" href="/product/tabconf-x-nogood-poster/">TABConf x NoGood Poster</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-x-nogood-poster/">TABConf x NoGood Poster</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Official TABConf 2022 poster by <a href="https://nogood.store/">NoGood</a>. 20 x 30 inch Giclee print.</p>
-<p>The post <a rel="nofollow" href="/product/tabconf-x-nogood-poster/">TABConf x NoGood Poster</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-x-nogood-poster/">TABConf x NoGood Poster</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -68,18 +68,18 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">2653</post-id>	</item>
 		<item>
 		<title>TABConf 2022 Ticket</title>
-		<link>/product/tabconf-2022-ticket/</link>
+		<link>/https://tabconf.github.io/2022.tabconf.com/product/tabconf-2022-ticket/</link>
 		
 		<dc:creator><![CDATA[TABConf]]></dc:creator>
 		<pubDate>Tue, 28 Dec 2021 20:22:55 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=1193</guid>
+				<guid isPermaLink="false">/https://tabconf.github.io/2022.tabconf.com/?post_type=product&#038;p=1193</guid>
 
 					<description><![CDATA[<p>Full access to TABConf 2022.</p>
-<p>The post <a rel="nofollow" href="/product/tabconf-2022-ticket/">TABConf 2022 Ticket</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-2022-ticket/">TABConf 2022 Ticket</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>October 12 &#8211; 15, 2022. This ticket gives you full access to TABConf 2022. Lunch is provided on the 2 main conference days, but not the workshop day. This also grants you admission to the afterparty!</p>
-<p>If you have previously purchased a TABConf 2022 ticket and would like to sell or transfer it to someone else, <a href="/transfer-ticket/">please go here</a>.</p>
-<p>The post <a rel="nofollow" href="/product/tabconf-2022-ticket/">TABConf 2022 Ticket</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>If you have previously purchased a TABConf 2022 ticket and would like to sell or transfer it to someone else, <a href="/https://tabconf.github.io/2022.tabconf.com/transfer-ticket/">please go here</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-2022-ticket/">TABConf 2022 Ticket</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -87,17 +87,17 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1193</post-id>	</item>
 		<item>
 		<title>TABConf x NoGood Shirt</title>
-		<link>/product/tabconf-x-nogood-shirt/</link>
+		<link>/https://tabconf.github.io/2022.tabconf.com/product/tabconf-x-nogood-shirt/</link>
 		
 		<dc:creator><![CDATA[TABConf]]></dc:creator>
 		<pubDate>Thu, 13 Oct 2022 13:18:04 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=2655</guid>
+				<guid isPermaLink="false">/https://tabconf.github.io/2022.tabconf.com/?post_type=product&#038;p=2655</guid>
 
 					<description><![CDATA[<p>Official TABConf 2022 shirt by NoGood. It&#8217;s a soft one, Brandon approves.</p>
-<p>The post <a rel="nofollow" href="/product/tabconf-x-nogood-shirt/">TABConf x NoGood Shirt</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-x-nogood-shirt/">TABConf x NoGood Shirt</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Official TABConf 2022 shirt by <a href="https://www.nogood.store/">NoGood</a>. It&#8217;s a soft one, Brandon approves.</p>
-<p>The post <a rel="nofollow" href="/product/tabconf-x-nogood-shirt/">TABConf x NoGood Shirt</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-x-nogood-shirt/">TABConf x NoGood Shirt</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -105,18 +105,18 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">2655</post-id>	</item>
 		<item>
 		<title>Chess Tournament</title>
-		<link>/product/chess-tournament/</link>
+		<link>/https://tabconf.github.io/2022.tabconf.com/product/chess-tournament/</link>
 		
 		<dc:creator><![CDATA[TABConf]]></dc:creator>
 		<pubDate>Sat, 01 Oct 2022 23:54:59 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=2262</guid>
+				<guid isPermaLink="false">/https://tabconf.github.io/2022.tabconf.com/?post_type=product&#038;p=2262</guid>
 
 					<description><![CDATA[<p>Chess tournament. 100k sats buy-in, winner take all! Single round elimination for winners. Losers battle it out for worst player in a &#8220;loser stay bracket&#8221;. The best and worst players at TABConf get bragging rights. Location: TBD (Near or at TABConf). Note: Because the buy-in is denominated in bitcoin and not dollars, you can not&#8230;</p>
-<p>The post <a rel="nofollow" href="/product/chess-tournament/">Chess Tournament</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/chess-tournament/">Chess Tournament</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Chess tournament. 100k sats buy-in, winner take all! Single round elimination for winners. Losers battle it out for worst player in a &#8220;loser stay bracket&#8221;. The best and worst players at TABConf get bragging rights. Location: TBD (Near or at TABConf).</p>
 <p><em><strong>Note:</strong> Because the buy-in is denominated in bitcoin and not dollars, you can not purchase this in the same transaction as a ticket or challenge coin (even if you choose to pay for those items in bitcoin). Purchase your chess tournament buy-in in a <strong>separate</strong> <strong>transaction</strong> from your ticket!</em></p>
-<p>The post <a rel="nofollow" href="/product/chess-tournament/">Chess Tournament</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/chess-tournament/">Chess Tournament</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -124,24 +124,24 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">2262</post-id>	</item>
 		<item>
 		<title>Silver Challenge Coin</title>
-		<link>/product/silver-challenge-coin/</link>
+		<link>/https://tabconf.github.io/2022.tabconf.com/product/silver-challenge-coin/</link>
 		
 		<dc:creator><![CDATA[TABConf]]></dc:creator>
 		<pubDate>Tue, 28 Dec 2021 20:25:28 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=1196</guid>
+				<guid isPermaLink="false">/https://tabconf.github.io/2022.tabconf.com/?post_type=product&#038;p=1196</guid>
 
 					<description><![CDATA[<p>Each year we make new die-molds to create unique coins with an awesome design for TABConf. These are physical collectable Bitcoin coins that are only produced the year of the event. By purchasing a ticket to TABConf you are eligible to receive a free physical copper coin (while supplies last). Guarantee yourself a coin of&#8230;</p>
-<p>The post <a rel="nofollow" href="/product/silver-challenge-coin/">Silver Challenge Coin</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/silver-challenge-coin/">Silver Challenge Coin</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>Each year we make new die-molds to create unique coins with an awesome design for TABConf. These are physical collectable Bitcoin coins that are only produced the year of the event. By purchasing a <a href="/product/tabconf-2022-ticket/">ticket</a> to TABConf you are eligible to receive a free physical copper coin (while supplies last). Guarantee yourself a coin of higher value for the conference by optionally purchasing a solid silver coin.</p>
-<p>The coin will contain a <strong>clue</strong> that is used for the ongoing &#8220;<a href="/capture-the-bitcoin-2022/">Capture the Bitcoin</a>&#8221; scavenger hunt at the conference.</p>
+										<content:encoded><![CDATA[<p>Each year we make new die-molds to create unique coins with an awesome design for TABConf. These are physical collectable Bitcoin coins that are only produced the year of the event. By purchasing a <a href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-2022-ticket/">ticket</a> to TABConf you are eligible to receive a free physical copper coin (while supplies last). Guarantee yourself a coin of higher value for the conference by optionally purchasing a solid silver coin.</p>
+<p>The coin will contain a <strong>clue</strong> that is used for the ongoing &#8220;<a href="/https://tabconf.github.io/2022.tabconf.com/capture-the-bitcoin-2022/">Capture the Bitcoin</a>&#8221; scavenger hunt at the conference.</p>
 <h3>Notes</h3>
 <ul>
 <li>Bullion grade coin</li>
 <li>The silver round will be a standard 1 troy ounce weight.</li>
-<li>Purchasing a coin alone is NOT a <a href="/product/tabconf-2022-ticket/">ticket</a> to the conference.</li>
+<li>Purchasing a coin alone is NOT a <a href="/https://tabconf.github.io/2022.tabconf.com/product/tabconf-2022-ticket/">ticket</a> to the conference.</li>
 </ul>
-<p>The post <a rel="nofollow" href="/product/silver-challenge-coin/">Silver Challenge Coin</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/product/silver-challenge-coin/">Silver Challenge Coin</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></content:encoded>
 					
 		

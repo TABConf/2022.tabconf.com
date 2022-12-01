@@ -12,8 +12,8 @@
 
 <channel>
 	<title>TABConf 2022</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/https://tabconf.github.io/2022.tabconf.com/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://tabconf.github.io/2022.tabconf.com/</link>
 	<description>The Atlanta Bitcoin Conference</description>
 	<lastBuildDate>Fri, 15 Jul 2022 18:18:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,25 +26,25 @@
 <image>
 	<url>https://i0.wp.com/2022.tabconf.com/wp-content/uploads/2022/07/cropped-tabconf2022-favicon-circle.png?fit=32%2C32&#038;ssl=1</url>
 	<title>TABConf 2022</title>
-	<link>/</link>
+	<link>/https://tabconf.github.io/2022.tabconf.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">212419342</site>	<item>
 		<title>TABConf is coming</title>
-		<link>/tabconf-is-coming/</link>
+		<link>/https://tabconf.github.io/2022.tabconf.com/tabconf-is-coming/</link>
 		
 		<dc:creator><![CDATA[TABConf]]></dc:creator>
 		<pubDate>Fri, 15 Jul 2022 18:18:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1531</guid>
+		<guid isPermaLink="false">/https://tabconf.github.io/2022.tabconf.com/?p=1531</guid>
 
 					<description><![CDATA[<p>Soon</p>
-<p>The post <a rel="nofollow" href="/tabconf-is-coming/">TABConf is coming</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/tabconf-is-coming/">TABConf is coming</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Soon</p>
-<p>The post <a rel="nofollow" href="/tabconf-is-coming/">TABConf is coming</a> appeared first on <a rel="nofollow" href="/">TABConf 2022</a>.</p>
+<p>The post <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/tabconf-is-coming/">TABConf is coming</a> appeared first on <a rel="nofollow" href="/https://tabconf.github.io/2022.tabconf.com/">TABConf 2022</a>.</p>
 ]]></content:encoded>
 					
 		
