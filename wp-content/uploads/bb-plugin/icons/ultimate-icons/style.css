@@ -2,9 +2,9 @@
   font-display: block;
   font-family: 'Ultimate-Icons';
   src:
-    url('/https://tabconf.github.io/2022.tabconf.com/wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.ttf?1ddi1j') format('truetype'),
-    url('/https://tabconf.github.io/2022.tabconf.com/wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.woff?1ddi1j') format('woff'),
-    url('/https://tabconf.github.io/2022.tabconf.com/wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.svg?1ddi1j#Ultimate-Icons') format('svg');
+    url('/./wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.ttf?1ddi1j') format('truetype'),
+    url('/./wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.woff?1ddi1j') format('woff'),
+    url('/./wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.svg?1ddi1j#Ultimate-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }

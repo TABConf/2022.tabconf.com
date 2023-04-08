@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: TABConf is coming	</title>
-	<atom:link href="/https://tabconf.github.io/2022.tabconf.com/tabconf-is-coming/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://tabconf.github.io/2022.tabconf.com/tabconf-is-coming/</link>
+	<atom:link href="/./tabconf-is-coming/feed/" rel="self" type="application/rss+xml" />
+	<link>/./tabconf-is-coming/</link>
 	<description>The Atlanta Bitcoin Conference</description>
 	<lastBuildDate>Fri, 15 Jul 2022 18:18:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
